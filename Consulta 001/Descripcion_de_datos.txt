@@ -1,0 +1,21 @@
+#Columnas:
+
+-order_id: identificador único para cada pedido.
+-date: fecha de la transacción.
+-item_name: nombre del alimento.
+-item_type: categoría del artículo (comida rápida o bebidas).
+-item_price: precio del artículo por unidad.
+-Quantity: cantidad que pide el cliente.
+-transaction_amount: importe total pagado por los clientes.
+-transaction_type: método de pago (efectivo, online, otros).
+-received_by: género de la persona que realiza la transacción.
+-time_of_sale: diferentes horas del día (mañana, tarde, noche, medianoche).
+
+
+#Posibles usos:
+
+-Análisis de las tendencias de ventas a lo largo del tiempo.
+-Comprender las preferencias de los clientes por diferentes artículos.
+-Evaluar el impacto de los métodos de pago en los ingresos.
+-Investigar el rendimiento del personal en función del género.
+-Explorar la popularidad de los artículos en diferentes momentos del día.
