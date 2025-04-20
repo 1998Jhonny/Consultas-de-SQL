@@ -1,4 +1,4 @@
-# Consultas SQL - Proyecto Restaurante Balaji
+# Consulta 001 - Proyecto Restaurante Balaji
 
 Este es mi primer proyecto de análisis de datos utilizando SQL. Poco menos de un mes de haber comenzado en este mundo, tuve la oportunidad de trabajar con datos reales de un restaurante llamado **Balaji**.
 
