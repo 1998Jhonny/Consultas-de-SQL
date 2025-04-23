@@ -2,7 +2,7 @@
 
 Este es mi primer proyecto de análisis de datos utilizando SQL. Poco menos de un mes de haber comenzado en este mundo, tuve la oportunidad de trabajar con datos reales de un restaurante llamado **Balaji**.
 
-En este repositorio comparto las consultas que utilicé para obtener insights relacionados con las ventas, productos, métodos de pago, fechas y comportamiento de los consumidores y de los colaboradores.
+En esta carpeta podrás encontrar las consultas que utilicé para obtener insights relacionados con las ventas, productos, métodos de pago, fechas y comportamiento de los consumidores y de los colaboradores.
 
 Los datos provienen del conjunto Restaurant Sales Report de RAJATSURANA97, disponible en Kaggle
 
