@@ -39,7 +39,7 @@ Los datos provienen del conjunto Restaurant Sales Report de RAJATSURANA97, dispo
 
 # Contacto
 
-Si tienes sugerencias o comentarios, Puedes escribirme por aquí, en [LinkedIn](www.linkedin.com/in/9812jhonny) o al correo 9812jhonny@gmail.com.
+Si tienes sugerencias o comentarios, Puedes escribirme por aquí, en LinkedIn www.linkedin.com/in/9812jhonny o al correo 9812jhonny@gmail.com.
 
 
 
