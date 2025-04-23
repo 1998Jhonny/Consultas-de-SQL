@@ -18,8 +18,8 @@ En este repositorio puedes encontrar una colección de consultas SQL diseñadas 
 # Cómo usar este repo
 
 1. **Prepara el entorno**: en mi caso utilizo MySQL workbench.
-2. **Carga la base de datos**: Crea la base de datos `empleadoss_departamentoss` que se encuentra en el perfil de github de DiscoDuroDeRoer.
-3. **Ejecuta las consultas**: Busca el archivo `consultas_a_realizar.txt`, intenta darle solución por tu cuenta, posteriormente abre el archivo SQL que se encuentra en este repositorio y valida la solución a cada problema **(DiscoDuroDeRoer también cuenta con un canal en Youtube realizando la solución)**.
+2. **Carga la base de datos**: Crea la base de datos `empleadoss_departamentoss` que se encuentra en el perfil de GitHub de DiscoDuroDeRoer.
+3. **Ejecuta las consultas**: Busca el archivo `consultas_a_realizar.txt` y el archivo `Modelo entidad-relacion empleados departamentos.JPG` para comprender la relación entre las tablas y sus campos, intenta darle solución por tu cuenta, posteriormente abre el archivo SQL que se encuentra en este repositorio y valida la solución a cada problema **(DiscoDuroDeRoer también cuenta con un canal en Youtube realizando la solución)**.
 4. **Modifica y experimenta**: Cambia condiciones, agrega filtros o agrégales más columnas para afianzar tu aprendizaje.
 
 ---
