@@ -1,6 +1,6 @@
 # Consulta 002 - Proyecto empleadossdepartamentoss 
 
-En este repositorio puedes encontrar una colección de consultas SQL diseñadas para explorar y manipular datos relacionados con empleados y departamentos de diferentes areas como Gerencia, Ventas, Investigación, Mantenimiento, entre otros. Esta base de datos tiene como objetivo reforzar habilidades fundamentales de SQL.
+En esta carpeta puedes encontrar un archivo de consultas SQL diseñadas para explorar y manipular datos relacionados con empleados y departamentos de diferentes areas como Gerencia, Ventas, Investigación, Mantenimiento, entre otros. Esta base de datos tiene como objetivo reforzar habilidades fundamentales de SQL.
 
 ---
 
