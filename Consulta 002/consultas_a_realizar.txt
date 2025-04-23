@@ -1,0 +1,22 @@
+- Seleccionar las comisiones y el salario
+- Obtener el valor total a pagar que resulta de sumar a los empleados del departamento 3000 una bonificación de 500.000, en orden alfabético del empleado
+- Obtener la lista de los empleados que ganan una comisión superior a su sueldo
+- Listar los empleados cuya comisión es menor o igual que el 30% de su sueldo
+- Hallar el salario y la comisión de aquellos empleados cuyo número de documento de identidad es superior al '19.709.802'
+- Listar el salario, la comisión, el salario total (salario + comisión), documento de identidad del empleado y nombre, de aquellos empleados que tienen comisión superior a 1.000.000, ordenar el informe por el número del documento de identidad
+- Hallar los empleados cuyo nombre no contiene la cadena "MA"
+- Obtener el nombre y el departamento de los empleados con cargo 'Secretaria' o 'Vendedor', que no trabajan en el departamento de “PRODUCCION”, cuyo salario es superior a $1.000.000, ordenados por fecha de incorporación
+- Obtener información de los empleados cuyo nombre tiene exactamente 11 caracteres
+- Obtener información de los empleados cuyo nombre tiene al menos 11 caracteres
+- Obtener los nombres, salarios y comisiones de los empleados que reciben un salario situado entre la mitad de la comisión la propia comisión
+- Mostrar el salario más alto de la empresa
+- Mostrar cada una de las comisiones y el número de empleados que las reciben. Solo si tiene comisión
+- Mostrar el nombre del último empleado de la lista por orden alfabético
+- Hallar el salario más alto, el más bajo y la diferencia entre ellos
+- Mostrar el número de empleados de sexo femenino y de sexo masculino, por departamento
+- Hallar el salario promedio por departamento
+- Mostrar la lista de los empleados cuyo salario es mayor o igual que el promedio de la empresa. Ordenarlo por departamento
+- Hallar los departamentos que tienen más de tres empleados. Mostrar el número de empleados de esos departamentos
+- Mostrar el código y nombre de cada jefe, junto al número de empleados que dirige. Solo los que tengan más de dos empleados (2 incluido)
+- Hallar los departamentos que no tienen empleados
+- Mostrar el nombre del departamento cuya suma de salarios sea la más alta, indicando el valor de la suma
