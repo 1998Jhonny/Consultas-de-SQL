@@ -17,8 +17,12 @@ DESCRIBE balajifastfood;
 
 #Cambiar el formato de fecha
 
-#Desactivar el modo seguro
-SET SQL_SAFE_UPDATES = 0; 
+#Validar si hay claves primarias
+SHOW KEYS FROM balajifastfood WHERE Key_name = 'PRIMARY';
+
+#Establecer columna order_id como clave primaria
+ALTER TABLE balajifastfood
+ADD PRIMARY KEY (order_id);
 
 UPDATE balajifastfood
 SET date = STR_TO_DATE(date, '%d-%m-%Y')
@@ -27,9 +31,6 @@ WHERE date LIKE '%-%';
 UPDATE balajifastfood
 SET date = STR_TO_DATE(date, '%m/%d/%Y')
 WHERE date LIKE '%/%';
-
-#Activar el modo seguro
-SET SQL_SAFE_UPDATES = 1; 
 
 #Cambiar el tipo de columna a formato fecha
 ALTER TABLE balajifastfood
@@ -59,16 +60,11 @@ HAVING COUNT(*) > 1;
 SELECT DISTINCT time_of_sale FROM balajifastfood;
 
 #Se comprueba que hay cadenas vacías '' y se deben pasar a NULL
-#Desactivar el modo seguro
-SET SQL_SAFE_UPDATES = 0;
 
 #Reemplaza '' por NULL en la columna transaction_type
 UPDATE balajifastfood
 SET transaction_type = NULL
 WHERE TRIM(transaction_type) = '';
-
-#Activar el modo seguro
-SET SQL_SAFE_UPDATES = 1;
 
 #Total tipo de pago (NULL, CASH Y ONLINE)
 SELECT
