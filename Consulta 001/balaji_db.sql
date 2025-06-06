@@ -24,6 +24,24 @@ SHOW KEYS FROM balajifastfood WHERE Key_name = 'PRIMARY';
 ALTER TABLE balajifastfood
 ADD PRIMARY KEY (order_id);
 
+#Validar en cuales columnas hay valores nulos
+SELECT COUNT(*) FROM balajifastfood
+WHERE time_of_sale IS NULL;# El WHERE hacerlo por cada columna
+
+#Debemos desactivar el modo seguro ya que necesitariamos saber el ID de cada valor nulo y sería mucho más complejo
+SET SQL_SAFE_UPDATES = 0;
+
+#Eliminar esos registros que contienen valores null
+DELETE FROM balajifastfood
+WHERE item_type IS NULL
+	OR item_price IS NULL
+    OR transaction_amount IS NULL
+    OR transaction_type IS NULL;
+
+#Volver a activar el modo seguro
+SET SQL_SAFE_UPDATES = 1;
+
+#Ahora cambiamos el formato de la columna date a fecha
 UPDATE balajifastfood
 SET date = STR_TO_DATE(date, '%d-%m-%Y')
 WHERE date LIKE '%-%';
@@ -40,15 +58,6 @@ MODIFY COLUMN date DATE;
 SELECT *
 FROM balajifastfood 
 ORDER BY date ASC;
-
-# Revisar valores nulos o vacíos
-SELECT 
-  SUM(CASE WHEN order_id IS NULL OR order_id = '' THEN 1 ELSE 0 END) AS faltantes_order_id,
-  SUM(CASE WHEN item_name IS NULL OR item_name = '' THEN 1 ELSE 0 END) AS faltantes_item_name,
-  SUM(CASE WHEN item_price IS NULL THEN 1 ELSE 0 END) AS faltantes_item_price,
-  SUM(CASE WHEN transaction_amount IS NULL THEN 1 ELSE 0 END) AS faltantes_transaction_amount,
-  SUM(CASE WHEN transaction_type IS NULL THEN 1 ELSE 0 END) AS faltantes_transaction_type
-FROM balajifastfood;
 
 # Valores duplicados en order_id
 SELECT order_id, COUNT(*) as conteo
