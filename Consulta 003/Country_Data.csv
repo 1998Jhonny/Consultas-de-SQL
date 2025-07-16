@@ -1,0 +1,200 @@
+﻿Country;Fecha;PIB Per Capita €;Var. anual PIB Per Capita
+Spain;2024;32590; 0,05 
+Germany;2024;50830; 0,03 
+UK;2024;49172; 0,08 
+France;2024;42630; 0,03 
+Italy;2024;37180; 0,03 
+Portugal;2024;26700; 0,05 
+Eurozone;2024;43040; 0,03 
+USA;2024;79305; 0,04 
+Japan;2024;30034;-0,04 
+China;2024;12303; 0,03 
+Andorra;2024;42853; 0,04 
+UAE;2023;44515;-0,04 
+Afghanistan;2023;378; 0,13 
+Antigua and Barbuda;2023;20149; 0,15 
+Albania;2024;9096; 0,15 
+Armenia;2023;7442; 0,20 
+Angola;2023;2762;-0,27 
+Argentina;2024;12829;-0,02 
+Austria;2024;52760; 0,02 
+Australia;2024;61614; 0,03 
+Azerbaijan;2024;6746; 0,02 
+Bosnia;2024;7666; 0,04 
+Barbados;2023;22009; 0,05 
+Bangladesh;2024;2431;-0,00 
+Belgium;2024;51810; 0,02 
+Burkina Faso;2023;842; 0,03 
+Bulgaria;2024;16110; 0,10 
+Bahrain;2023;27081;-0,06 
+Burundi;2024;338; 0,12 
+Benin;2023;1327; 0,07 
+Brunei;2024;31686; 0,02 
+Bolivia;2023;3433;-0,01 
+Brazil;2024;9479;-0,01 
+Bahamas;2023;33188; 0,06 
+Bhutan;2023;3443;-0,01 
+Botswana;2023;7236;-0,08 
+Belarus;2023;7232;-0,05 
+Belize;2023;6898; 0,02 
+Canada;2024;50342; 0,00 
+Democratic Republic of the Congo;2023;614;-0,05 
+Central African Republic;2023;459; 0,03 
+Republic of the Congo;2023;2308;-0,08 
+Switzerland;2024;96020; 0,04 
+Ivory Coast;2023;2362; 0,07 
+Chile;2024;15523;-0,02 
+Cameroon;2023;1606; 0,06 
+Colombia;2024;7340; 0,13 
+Costa Rica;2024;16551; 0,09 
+Cuba;2021;41448; 3,93 
+Cape Verde;2023;4581; 0,09 
+Cyprus;2024;34490; 0,05 
+Czech Republic;2024;29280; 0,00 
+Djibouti;2023;3517; 0,06 
+Denmark;2024;66420; 0,05 
+Dominica;2023;9091; 0,06 
+Dominican Republic;2024;10754; 0,03 
+Algeria;2023;4983; 0,05 
+Ecuador;2023;6230; 0,00 
+Estonia;2024;28740; 0,03 
+Egypt;2024;3366;-0,03 
+Eritrea;2019;546; 0,03 
+Ethiopia;2023;1148; 0,06 
+Finland;2024;49100; 0,00 
+Fiji;2023;5445; 0,06 
+Federated States of Micronesia;2023;3777; 0,07 
+Gabon;2023;7464;-0,07 
+Grenada;2023;10589; 0,04 
+Georgia;2024;8449; 0,11 
+Ghana;2023;2204; 0,04 
+Gambia;2023;820; 0,04 
+Guinea;2023;1425; 0,06 
+Equatorial Guinea;2023;6175;-0,14 
+Greece;2024;22560; 0,06 
+Guatemala;2023;5486; 0,05 
+Guinea-Bissau;2023;861; 0,11 
+Guyana;2024;27578; 0,46 
+Hong Kong;2024;49978; 0,07 
+Honduras;2023;3021; 0,05 
+Croatia;2024;21740; 0,10 
+Haiti;2024;2083; 0,34 
+Hungary;2024;21570; 0,05 
+Indonesia;2024;4582; 0,01 
+Ireland;2024;99060; 0,03 
+Israel;2024;50082; 0,04 
+India;2024;2512; 0,07 
+Iraq;2023;5555;-0,10 
+Iran;2024;4094; 0,08 
+Iceland;2024;79980; 0,04 
+Jamaica;2023;6289; 0,11 
+Jordan;2023;4172; 0,02 
+Kenya;2023;1817;-0,10 
+Kyrgyzstan;2024;2277; 0,15 
+Cambodia;2023;2239;-0,00 
+Kiribati;2023;2130; 0,02 
+Comoros;2023;1471; 0,08 
+Saint Kitts and Nevis;2023;20881; 0,15 
+North Korea;2017;595; 0,01 
+South Korea;2024;33389; 0,02 
+Kuwait;2023;30808;-0,15 
+Kazakhstan;2023;12165; 0,12 
+Laos;2024;1915; 0,06 
+Lebanon;2023;3098;-0,95 
+Saint Lucia;2023;12536; 0,01 
+Liechtenstein;2023;186890; 0,08 
+Sri Lanka;2023;3540; 0,11 
+Liberia;2023;747; 0,05 
+Lesotho;2023;885;-0,13 
+Lithuania;2024;27150; 0,06 
+Luxembourg;2024;126910; 0,05 
+Latvia;2024;21610; 0,03 
+Libya;2023;5709; 0,00 
+Morocco;2023;3607; 0,07 
+Monaco;2023;240939; 0,12 
+Moldova;2023;6288; 0,15 
+Montenegro;2024;11960; 0,09 
+Madagascar;2023;468;-0,02 
+Marshall Islands;2023;5933; 0,02 
+North Macedonia;2024;8446; 0,06 
+Mali;2023;841; 0,04 
+Myanmar;2023;1141;-0,01 
+Mongolia;2024;6149; 0,15 
+Mauritania;2023;1960; 0,05 
+Malta;2024;39330; 0,06 
+Mauritius;2023;10339; 0,07 
+Maldives;2023;11568; 0,04 
+Malawi;2023;517;-0,04 
+Mexico;2024;13197; 0,03 
+Malaysia;2024;11590; 0,04 
+Mozambique;2023;576; 0,05 
+Namibia;2024;4220; 0,08 
+Niger;2023;574; 0,02 
+Nigeria;2024;761;-0,49 
+Nicaragua;2023;2406; 0,10 
+Netherlands;2024;62380; 0,06 
+Norway;2024;80200;-0,01 
+Nepal;2023;1224;-0,04 
+Nauru;2023;11843;-0,02 
+New Zealand;2024;45429; 0,02 
+Oman;2024;19132; 0,01 
+Panama;2024;18199; 0,05 
+Peru;2024;7893; 0,08 
+Papua New Guinea;2023;2741;-0,07 
+Philippines;2024;3770; 0,04 
+Pakistan;2024;1461; 0,08 
+Poland;2024;22560; 0,13 
+State of Palestine;2023;3013;-0,11 
+Palau;2023;14445; 0,08 
+Paraguay;2023;5861;-0,01 
+Qatar;2023;64295;-0,16 
+Romania;2024;18560; 0,09 
+Serbia;2024;12510; 0,10 
+Russia;2024;13673; 0,05 
+Rwanda;2023;950;-0,00 
+Saudi Arabia;2024;28415;-0,03 
+Solomon Islands;2023;1888;-0,01 
+Seychelles;2023;20264; 0,05 
+Sudan;2023;2019; 1,03 
+Sweden;2024;52600; 0,04 
+Singapore;2024;83798; 0,06 
+Slovenia;2024;31490; 0,04 
+Slovakia;2024;24000; 0,06 
+Sierra Leone;2024;788; 0,17 
+San Marino;2022;51121; 0,11 
+Senegal;2023;1578; 0,06 
+Somalia;2023;553; 0,02 
+Suriname;2023;4997;-0,09 
+South Sudan;2024;436;-0,25 
+Sao Tome and Principe;2023;2739; 0,20 
+El Salvador;2023;4941; 0,03 
+Syria;2022;999; 0,78 
+Eswatini;2023;3339;-0,11 
+Chad;2023;878;-0,10 
+Togo;2024;973; 0,05 
+Thailand;2024;6932; 0,02 
+Tajikistan;2023;1055; 0,08 
+East Timor;2023;1389;-0,38 
+Turkmenistan;2023;7612;-0,26 
+Tunisia;2023;3679; 0,05 
+Tonga;2023;4526;-0,03 
+Turkey;2024;14291; 0,18 
+Trinidad;2023;17233;-0,13 
+Tuvalu;2023;5725; 0,04 
+Taiwan;2024;30902; 0,03 
+Tanzania;2023;1098; 0,01 
+Ukraine;2023;4443; 0,18 
+Uganda;2023;987; 0,04 
+Uruguay;2024;21384; 0,04 
+Uzbekistan;2024;2949; 0,12 
+Saint Vincent and the Grenadines;2023;9729; 0,08 
+Venezuela;2018;2897;-0,14 
+Vietnam;2024;4233; 0,06 
+Vanuatu;2023;3251; 0,00 
+Samoa;2024;4723; 0,14 
+Yemen;2022;584; 0,32 
+South Africa;2024;5954; 0,05 
+Zambia;2023;1230;-0,11 
+Zimbabwe;2023;1988; 0,04 
+Vatican City;2021;17961; 0,00 
+Kosovo;2023;4141; 0,08 
